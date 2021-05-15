@@ -1,4 +1,4 @@
-name: antlr
+name: snn_distill
 channels:
   - pytorch
   - defaults
@@ -69,5 +69,4 @@ dependencies:
   - pip:
     - colorama==0.4.4
     - pkbar==0.5
-prefix: ~/miniconda3/envs/antlr
-
+prefix: ~/miniconda3/envs/snn_distill
