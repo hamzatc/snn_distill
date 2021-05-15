@@ -1,0 +1,4 @@
+{
+    "network_size": ["784", "fc400", "fc10"],
+    "teacher_network_size": ["784", "fc800", "fc10"]
+}
